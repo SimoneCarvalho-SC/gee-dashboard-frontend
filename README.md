@@ -16,7 +16,9 @@ Certifique-se de que o backend esteja rodando em http://127.0.0.1:5000 para o fr
 
 ## Estrutura
 home.html: página principal
+
 style.css: estilos visuais
+
 script.js: lógica de interação com a API
 
 ## Pre-Requisitos
