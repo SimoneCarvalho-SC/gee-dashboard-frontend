@@ -9,20 +9,27 @@ Este projeto é a interface web do GEE Dashboard. Ele permite a visualização, 
 
 ## 📦 Como Executar
 
-Execute localmente:
+### Execute localmente:
 Abra o arquivo home.html, clicando com o botão direito do mouse e abra no navegador a sua escolha.
 
 Certifique-se de que o backend esteja rodando em http://127.0.0.1:5000 para o frontend se comunicar corretamente com a API.
 
 ## Estrutura
-home.html: página principal
+### home.html: página principal
 
-style.css: estilos visuais
+![alt text](image.png)
 
-script.js: lógica de interação com a API
+### style.css: estilos visuais
+
+![alt text](image-1.png)
+
+### script.js: lógica de interação com a API
+
+![alt text](image-2.png)
 
 ## Pre-Requisitos
 Navegador moderno (Chrome, Edge, Firefox)
+
 Backend em Flask rodando localmente
 
 ### 1. Clone o repositório
